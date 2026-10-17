@@ -1,3 +1,11 @@
+> **Archived — October 16, 2026**
+>
+> This historical Scala/Spray/ReactiveMongo integration is preserved for reference. Its dependencies and publishing configuration are no longer maintained.
+>
+> Source and history remain available for reference; no further updates or support are planned.
+
+---
+
 ## Sprongo - ReactiveMongo integration for Spray ##
 
 Sprongo provides [ReactiveMongo](http://reactivemongo.org/) integration
